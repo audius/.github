@@ -1,6 +1,6 @@
 ## Hi there/Willkommen 👋
 
-== About us
+### About us
 
 audius is a leading German IT and service company.
 
@@ -8,7 +8,7 @@ Over 700 motivated employees at 20 locations worldwide drive digitalization 
 
 https://www.audius.de/en
 
-== Über uns
+### Über uns
 
 audius zählt zu den führenden IT- und Service-Unternehmen in Deutschland.
 
